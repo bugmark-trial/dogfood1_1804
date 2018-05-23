@@ -1,0 +1,31 @@
+---
+webapp_url:   soak:4567
+# tracker_type: yaml
+# tracker_name: /tmp/funder_tracker.yml
+tracker_type: github
+tracker_name: bugmark-trial/funder2
+repo_url:     github.com/bugmark-trial/funder2
+start_date:   2018-05-21
+finish_date:  2018-05-24
+fee_funding:       15
+fee_participation: 50
+seed_balance: 200
+scram_c3_volume: 20
+scram_c2_volume: 20
+scram_c1_volume: 20
+scram_c0_volume: 20
+scram_p3_volume: 20
+scram_p2_volume: 20
+scram_p1_volume: 20
+scram_p0_volume: 20
+scram_c3_price: 0.50
+scram_c2_price: 0.50
+scram_c1_price: 0.50
+scram_c0_price: 0.50
+scram_p3_price: 0.50
+scram_p2_price: 0.50
+scram_p1_price: 0.50
+scram_p0_price: 0.50
+essay_price:       0.50
+python_price:      0.50
+meditations_price: 0.50
