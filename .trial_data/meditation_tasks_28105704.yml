@@ -1,0 +1,7 @@
+---
+- title:  Strip tags from file2_28105704
+  labels: EXERCISE,MEDITATIONS
+  body:   'Please remove html tags from file "Meditation/file2_28105704.html".<br/> ( view file on <a href="http://github.com/bugmark-trial/trader1/blob/master/Meditation/file2_28105704.html">GitHub</a> )<p><p/>/5f6a28'
+- title:  Strip tags from file1_28105704
+  labels: EXERCISE,MEDITATIONS
+  body:   'Please remove html tags from file "Meditation/file1_28105704.html".<br/> ( view file on <a href="http://github.com/bugmark-trial/trader1/blob/master/Meditation/file1_28105704.html">GitHub</a> )<p><p/>/1e0eb9'

@@ -1,0 +1,2 @@
+/home/aleak/src/bugmark/test_bench/data/python/Scripts/count_caps_lower_letters.py
+/home/aleak/src/bugmark/test_bench/data/python/Scripts/formula_calculation.py
