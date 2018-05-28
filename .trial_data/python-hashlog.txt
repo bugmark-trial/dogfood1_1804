@@ -1,2 +1,0 @@
-/home/aleak/src/bugmark/test_bench/data/python/Scripts/2d-array.py
-/home/aleak/src/bugmark/test_bench/data/python/Scripts/all_caps.py
