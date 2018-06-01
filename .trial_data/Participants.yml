@@ -1,10 +1,1 @@
----
-funder_email: malvikar@gmail.com
-leader_name:  Malvika Rao
-leader_email: malvikar@gmail.com
-participants:
-  - andy@r210.com
-  - linkgeorg@gmail.com
-  - sstruble@mozilla.com
-  - richbodo@gmail.com
-  - dmarti@mozilla.com
+../../Participants.yml

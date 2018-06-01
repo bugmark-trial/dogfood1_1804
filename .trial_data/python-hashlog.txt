@@ -1,2 +1,2 @@
-/home/aleak/src/bugmark/test_bench/data/python/Scripts/count_caps_lower_letters.py
-/home/aleak/src/bugmark/test_bench/data/python/Scripts/formula_calculation.py
+/home/deploy/src/test_bench/data/python/Scripts/list_tupal.py
+/home/deploy/src/test_bench/data/python/Scripts/devisible_binary.py
