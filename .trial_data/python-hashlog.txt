@@ -1,2 +1,2 @@
-/home/deploy/src/test_bench/data/python/Scripts/list_tupal.py
-/home/deploy/src/test_bench/data/python/Scripts/devisible_binary.py
+/home/deploy/src/test_bench/data/python/Scripts/sum_of_digits.py
+/home/deploy/src/test_bench/data/python/Scripts/all_caps.py
