@@ -1,2 +1,0 @@
-/home/deploy/src/test_bench/data/python/Scripts/all_caps.py
-/home/deploy/src/test_bench/data/python/Scripts/div7not5.py
