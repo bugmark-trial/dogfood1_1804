@@ -1,12 +1,10 @@
 # Question:
-# Write a Python program that accepts a sentence and calculate the number of
-# upper case letters and lower case letters.
-#
+# Write a Python program which can compute the factorial of a given numbers.
+# The results should be printed in a comma-separated sequence on a single line.
 # Suppose the following input is supplied to the program:
-# Hello world!
+# 8
 # Then, the output should be:
-# UPPER CASE 1
-# LOWER CASE 9
+# 40320
 #
 # Hints:
 # In case of input data being supplied to the question, it should be assumed to be a console input.
