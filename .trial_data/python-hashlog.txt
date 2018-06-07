@@ -1,0 +1,2 @@
+/home/deploy/src/test_bench/data/python/Scripts/alphabetical_sort.py
+/home/deploy/src/test_bench/data/python/Scripts/count_caps_lower_letters.py
