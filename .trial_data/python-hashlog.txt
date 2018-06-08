@@ -1,2 +1,4 @@
-/home/deploy/src/test_bench/data/python/Scripts/factorial.py
-/home/deploy/src/test_bench/data/python/Scripts/integral_number.py
+/home/deploy/src/test_bench/data/python/Scripts/list_tupal.py
+/home/deploy/src/test_bench/data/python/Scripts/div7not5.py
+/home/deploy/src/test_bench/data/python/Scripts/formula_calculation.py
+/home/deploy/src/test_bench/data/python/Scripts/all_caps.py
