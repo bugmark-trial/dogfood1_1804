@@ -1,4 +1,12 @@
+/home/deploy/src/test_bench/data/python/Scripts/factorial.py
 /home/deploy/src/test_bench/data/python/Scripts/list_tupal.py
-/home/deploy/src/test_bench/data/python/Scripts/div7not5.py
-/home/deploy/src/test_bench/data/python/Scripts/formula_calculation.py
+/home/deploy/src/test_bench/data/python/Scripts/remove_duplicate_sort.py
+/home/deploy/src/test_bench/data/python/Scripts/2d-array.py
 /home/deploy/src/test_bench/data/python/Scripts/all_caps.py
+/home/deploy/src/test_bench/data/python/Scripts/integral_number.py
+/home/deploy/src/test_bench/data/python/Scripts/factorial.py
+/home/deploy/src/test_bench/data/python/Scripts/all_caps.py
+/home/deploy/src/test_bench/data/python/Scripts/list_tupal.py
+/home/deploy/src/test_bench/data/python/Scripts/formula_calculation.py
+/home/deploy/src/test_bench/data/python/Scripts/even_digits.py
+/home/deploy/src/test_bench/data/python/Scripts/devisible_binary.py
