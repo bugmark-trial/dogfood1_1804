@@ -4,3 +4,9 @@
 /home/deploy/src/test_bench/data/python/Scripts/list_tupal.py
 /home/deploy/src/test_bench/data/python/Scripts/div7not5.py
 /home/deploy/src/test_bench/data/python/Scripts/integral_number.py
+/home/deploy/src/test_bench/data/python/Scripts/factorial.py
+/home/deploy/src/test_bench/data/python/Scripts/formula_calculation.py
+/home/deploy/src/test_bench/data/python/Scripts/sum_of_digits.py
+/home/deploy/src/test_bench/data/python/Scripts/even_digits.py
+/home/deploy/src/test_bench/data/python/Scripts/class.py
+/home/deploy/src/test_bench/data/python/Scripts/list_tupal.py

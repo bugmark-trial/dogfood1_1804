@@ -1,0 +1,13 @@
+---
+- title:  Strip tags from file1_14004235
+  labels: EXERCISE,MEDITATIONS
+  body:   'Please remove html tags from file "Meditation/file1_14004235.html".<br/> ( view file on <a href="http://github.com/bugmark-trial/trader1/blob/master/Meditation/file1_14004235.html">GitHub</a> )<p><p/>/8ebcbf'
+- title:  Strip tags from file4_14004235
+  labels: EXERCISE,MEDITATIONS
+  body:   'Please remove html tags from file "Meditation/file4_14004235.html".<br/> ( view file on <a href="http://github.com/bugmark-trial/trader1/blob/master/Meditation/file4_14004235.html">GitHub</a> )<p><p/>/b80df2'
+- title:  Strip tags from file2_14004235
+  labels: EXERCISE,MEDITATIONS
+  body:   'Please remove html tags from file "Meditation/file2_14004235.html".<br/> ( view file on <a href="http://github.com/bugmark-trial/trader1/blob/master/Meditation/file2_14004235.html">GitHub</a> )<p><p/>/ab532f'
+- title:  Strip tags from file3_14004235
+  labels: EXERCISE,MEDITATIONS
+  body:   'Please remove html tags from file "Meditation/file3_14004235.html".<br/> ( view file on <a href="http://github.com/bugmark-trial/trader1/blob/master/Meditation/file3_14004235.html">GitHub</a> )<p><p/>/ae2537'
